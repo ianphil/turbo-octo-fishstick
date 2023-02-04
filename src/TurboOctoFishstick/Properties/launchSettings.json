@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TurboOctoFishstick": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AppConfigurationConnectionString": "Endpoint=https://ac-osdug7emli6brsicu.azconfig.io;Id=QLcM-l5-s0:87o0zhPAw1/uWXfCJqRD;Secret=XQYF71f1Qb+oJBzVYVKRlXkMskbBcDICwPF6kX+hQwc="
+      }
+    }
+  }
+}
